@@ -1,0 +1,41 @@
+experiment_id,date_max,n_repet,random_state,extra_sufixo_mark,fi_cut,n_fib,corte_fib,n_fib_menor,md_center_f_i,mf_center_f_i,mss_center_f_i,msl_center_f_i,md_center_p_i,mf_center_p_i,mss_center_p_i,msl_center_p_i,tscv,n_iter_t_filter,n_iter_t_pred,amp,metricas
+579efba2-5b28-4949-9e0e-9691f7e9d7cc,2026-02-01,15,0,_ficut9_feateng0_fi_cut_reduc0.001_fev_26,0.9,20,2,9,9,2,4,1,9,1,3,1,"TimeSeriesSplit(gap=0, max_train_size=None, n_splits=2, test_size=None)",17,17,1,"  CO_MES CO_PRDT CO_GEO2 CO_GEO3  rmse  rmse_lr   r2  r2_lr  acc
+0     03    1005     021     999  30.5     35.4 -0.5   -1.0  0.5"
+f43b1178-ebe2-4aa7-bd1a-714a30c9345a,2026-02-01 00:00:00,15,0,_ficut9_feateng0_fi_cut_reduc0.001_fev_26,0.9,20,2,9,9,3,2,2,7,3,2,4,"TimeSeriesSplit(gap=0, max_train_size=None, n_splits=2, test_size=None)",2,2,1,"  CO_MES CO_PRDT CO_GEO2 CO_GEO3  rmse  rmse_lr   r2  r2_lr  acc
+0     03    1005     021     999  30.9     35.4 -0.5   -1.0  0.5"
+c0fd530d-005d-479d-a508-7a639eec7a41,2026-02-01 00:00:00,15,0,_ficut9_feateng0_fi_cut_reduc0.001_fev_26,0.9,20,2,9,9,11,3,1,7,3,5,3,"TimeSeriesSplit(gap=0, max_train_size=None, n_splits=2, test_size=None)",2,2,1,"  CO_MES CO_PRDT CO_GEO2 CO_GEO3   rmse  rmse_lr  r2  r2_lr  acc
+0     05    1005     021     999  191.0     98.6 NaN    NaN  0.5"
+34b3ec48-459c-4921-a688-df43d1724b2a,2026-02-01 00:00:00,15,0,_ficut9_feateng0_fi_cut_reduc0.001_fev_26,0.9,20,2,9,7,8,2,2,7,9,4,2,"TimeSeriesSplit(gap=0, max_train_size=None, n_splits=2, test_size=None)",2,2,1,"  CO_MES CO_PRDT CO_GEO2 CO_GEO3   rmse  rmse_lr   r2  r2_lr  acc
+0     07    1005     021     999  642.0    348.0 -0.6    0.5  1.0"
+b794acac-ab7c-4f4c-a9ef-409d46c05ce8,2026-02-01 00:00:00,15,0,_ficut9_feateng0_fi_cut_reduc0.001_fev_26,0.9,20,2,9,8,15,3,2,7,16,2,3,"TimeSeriesSplit(gap=0, max_train_size=None, n_splits=2, test_size=None)",2,2,1,"  CO_MES CO_PRDT CO_GEO2 CO_GEO3   rmse  rmse_lr   r2  r2_lr  acc
+0     09    1005     021     999  567.2    385.0  0.4    0.7  0.8"
+d667baeb-60a3-4ad7-88b1-f18d11c946d0,2026-02-01 00:00:00,15,0,_ficut9_feateng0_fi_cut_reduc0.001_fev_26,0.9,20,2,9,10,15,2,4,11,15,6,2,"TimeSeriesSplit(gap=0, max_train_size=None, n_splits=2, test_size=None)",2,2,1,"  CO_MES CO_PRDT CO_GEO2 CO_GEO3   rmse  rmse_lr   r2  r2_lr  acc
+0     11    1005     021     999  446.2    291.0 -0.2    0.5  0.5"
+328a4420-2a71-424f-bccf-533838c30020,2026-02-01 00:00:00,15,0,_ficut9_feateng0_fi_cut_reduc0.001_fev_26,0.9,20,2,9,9,14,5,2,8,14,3,3,"TimeSeriesSplit(gap=0, max_train_size=None, n_splits=2, test_size=None)",2,2,1,"  CO_MES CO_PRDT CO_GEO2 CO_GEO3   rmse  rmse_lr   r2  r2_lr  acc
+0     01    1005     021     999  434.0    422.3  0.2    0.3  0.8"
+fd89998f-37cc-4a7a-99fa-53c24e7a6668,2026-02-01 00:00:00,15,0,_ficut9_feateng0_fi_cut_reduc0.001_fev_26,0.9,20,2,9,9,7,1,1,10,3,2,4,"TimeSeriesSplit(gap=0, max_train_size=None, n_splits=2, test_size=None)",2,2,1,"  CO_MES CO_PRDT CO_GEO2 CO_GEO3  rmse  rmse_lr   r2  r2_lr  acc
+0     03    1005     021     999  31.5     35.4 -0.6   -1.0  0.5"
+de30e03a-3bbf-450a-8965-bf688caed603,2026-02-01 00:00:00,15,0,_ficut9_feateng0_fi_cut_reduc0.001_fev_26,0.9,20,2,9,9,2,2,5,13,1,3,4,"TimeSeriesSplit(gap=0, max_train_size=None, n_splits=2, test_size=None)",17,17,1,"  CO_MES CO_PRDT CO_GEO2 CO_GEO3  rmse  rmse_lr   r2  r2_lr  acc
+0     03    1005     021     999  31.4     35.4 -0.6   -1.0  0.5"
+0284ac40-1f2a-4399-9f25-ad3babfd25bc,2026-02-01 00:00:00,15,0,_ficut9_feateng0_fi_cut_reduc0.001_fev_26,0.9,20,2,9,9,5,2,2,10,7,5,4,"TimeSeriesSplit(gap=0, max_train_size=None, n_splits=2, test_size=None)",17,17,1,"  CO_MES CO_PRDT CO_GEO2 CO_GEO3  rmse  rmse_lr   r2  r2_lr  acc
+0     04    1005     021     999  25.2     42.4 -0.4   -3.0  0.0"
+42d2f80e-1f1f-4957-85d4-7b8e9d199415,2026-02-01 00:00:00,15,0,_ficut9_feateng0_fi_cut_reduc0.001_fev_26,0.9,20,2,9,7,6,3,3,13,7,6,1,"TimeSeriesSplit(gap=0, max_train_size=None, n_splits=2, test_size=None)",17,17,1,"  CO_MES CO_PRDT CO_GEO2 CO_GEO3   rmse  rmse_lr  r2  r2_lr  acc
+0     05    1005     021     999  197.9     98.6 NaN    NaN  0.5"
+0b6baa22-0166-48c9-9253-9e9e8fade435,2026-02-01 00:00:00,15,0,_ficut9_feateng0_fi_cut_reduc0.001_fev_26,0.9,20,2,9,11,5,1,0,15,5,2,0,"TimeSeriesSplit(gap=0, max_train_size=None, n_splits=2, test_size=None)",17,17,1,"  CO_MES CO_PRDT CO_GEO2 CO_GEO3   rmse  rmse_lr   r2  r2_lr  acc
+0     06    1005     021     999  274.3    254.5 -0.8   -0.6  1.0"
+c16f21b2-95ad-40d0-85c5-5154ad4d8361,2026-02-01 00:00:00,15,0,_ficut9_feateng0_fi_cut_reduc0.001_fev_26,0.9,20,2,9,11,6,2,2,14,2,2,3,"TimeSeriesSplit(gap=0, max_train_size=None, n_splits=2, test_size=None)",17,17,1,"  CO_MES CO_PRDT CO_GEO2 CO_GEO3   rmse  rmse_lr   r2  r2_lr  acc
+0     07    1005     021     999  360.7    348.0  0.5    0.5  0.8"
+862be1c1-d22d-4a60-888a-7690a3b2f7f9,2026-02-01 00:00:00,15,0,_ficut9_feateng0_fi_cut_reduc0.001_fev_26,0.9,20,2,9,7,11,2,2,12,2,2,3,"TimeSeriesSplit(gap=0, max_train_size=None, n_splits=2, test_size=None)",17,17,1,"  CO_MES CO_PRDT CO_GEO2 CO_GEO3   rmse  rmse_lr   r2  r2_lr  acc
+0     08    1005     021     999  611.6    661.2  0.5    0.4  0.8"
+787eb41e-2cea-41da-86e8-6eae238997f9,2026-02-01 00:00:00,15,0,_ficut9_feateng0_fi_cut_reduc0.001_fev_26,0.9,20,2,9,6,11,2,2,14,2,2,3,"TimeSeriesSplit(gap=0, max_train_size=None, n_splits=2, test_size=None)",17,17,1,"  CO_MES CO_PRDT CO_GEO2 CO_GEO3   rmse  rmse_lr   r2  r2_lr  acc
+0     09    1005     021     999  480.4    385.0  0.5    0.7  0.8"
+a21e9800-6af1-4542-a369-f26149db21e2,2026-02-01 00:00:00,15,0,_ficut9_feateng0_fi_cut_reduc0.001_fev_26,0.9,20,2,9,8,11,1,0,14,3,1,0,"TimeSeriesSplit(gap=0, max_train_size=None, n_splits=2, test_size=None)",17,17,1,"  CO_MES CO_PRDT CO_GEO2 CO_GEO3   rmse  rmse_lr   r2  r2_lr  acc
+0     10    1005     021     999  476.4    483.5  0.4    0.4  1.0"
+208eaf26-2885-450a-ae5a-bd0863b4aa78,2026-02-01 00:00:00,15,0,_ficut9_feateng0_fi_cut_reduc0.001_fev_26,0.9,20,2,9,9,10,2,1,13,7,2,1,"TimeSeriesSplit(gap=0, max_train_size=None, n_splits=2, test_size=None)",17,17,1,"  CO_MES CO_PRDT CO_GEO2 CO_GEO3   rmse  rmse_lr   r2  r2_lr  acc
+0     11    1005     021     999  294.8    291.0  0.5    0.5  0.9"
+449bb163-7b3f-4ae1-bddc-17b6e5824ae1,2026-02-01 00:00:00,15,0,_ficut9_feateng0_fi_cut_reduc0.001_fev_26,0.9,20,2,9,14,10,2,0,13,8,2,1,"TimeSeriesSplit(gap=0, max_train_size=None, n_splits=3, test_size=None)",17,17,1,"  CO_MES CO_PRDT CO_GEO2 CO_GEO3   rmse  rmse_lr   r2  r2_lr  acc
+0     12    1005     021     999  274.8    309.3  0.6    0.5  0.9"
+5991c64e-37c0-4666-b04f-a5d3702651e5,2026-02-01 00:00:00,15,0,_ficut9_feateng0_fi_cut_reduc0.001_fev_26,0.9,20,2,9,17,11,3,1,13,9,2,1,"TimeSeriesSplit(gap=0, max_train_size=None, n_splits=2, test_size=None)",17,17,1,"  CO_MES CO_PRDT CO_GEO2 CO_GEO3   rmse  rmse_lr   r2  r2_lr  acc
+0     01    1005     021     999  322.8    422.3  0.6    0.3  1.0"
+b28f9648-e733-4a30-aacf-8a6e9bcc9881,2026-02-01 00:00:00,15,0,_ficut9_feateng0_fi_cut_reduc0.001_fev_26,0.9,20,2,9,15,13,2,3,10,13,2,3,"TimeSeriesSplit(gap=0, max_train_size=None, n_splits=2, test_size=None)",17,17,1,"  CO_MES CO_PRDT CO_GEO2 CO_GEO3   rmse  rmse_lr   r2  r2_lr  acc
+0     02    1005     021     999  219.5    238.5 -0.5   -0.8  0.7"
